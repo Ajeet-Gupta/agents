@@ -1,0 +1,5 @@
+With over 11 years of experience in Java development, Ajeet has grown into a seasoned Tech Lead, currently driving backend architecture and enterprise solutions in the John Deere dealership project domain. His expertise spans Java (advanced) and Spring Boot, with a strong focus on scalable microservices, secure API design (OAuth2, role-based access), and system integrations (ERP, CRM, S3, SFTP).
+
+As a leader, he has successfully guided cross-functional teams, mentored developers, and delivered high-impact solutions that improved operational efficiency and customer engagement. His achievements include reducing service processing times, modernizing legacy systems, and ensuring high system reliability.
+
+Ajeet combines technical depth with strategic leadership, consistently implementing best practices in agile delivery, DevOps automation, and AI-driven process improvements. He is passionate about leveraging emerging technologies to enhance scalability, security, and innovation in enterprise systems.
